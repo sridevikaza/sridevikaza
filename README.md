@@ -21,19 +21,18 @@ Here are some ideas to get you started:
 
 # 👋 Hello! I'm Sridevi
 
-## 🔭 About Me
+## 😄 About Me
 - 🛠️ Undergraduate Degree in Mechanical Engineering (MIT '21).
 - 🎓 Master's in Robotic Systems Development (MRSD '24) from Carnegie Mellon.
 - 👩‍💻 Starting Full-Time Employment at Draper Lab as a Perception and Autonomy Researcher.
 - 🧠 Passionate about robotics, computer science, and developing innovative solutions.
 
-## 🔭 What I've Worked On
+## 🤓 What I've Worked On
 - 🫑 **Autonomous Green Pepper Harvesting Robot**: Developing a robot to automate the harvesting of green peppers.
 - 📚 **Robotics Course Assignments**: Exploring and implementing various robotics theories and applications.
 - 🤖 **Robotics Projects**: Building and programming robots.
 
 ## 🌱 What I'm Learning and Interested In
-- Advanced robotics concepts.
 - Machine learning applications in robotics.
 - Planning algorithms and decision-making processes.
 - Autonomous navigation and mapping.
