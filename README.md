@@ -13,15 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sridevikaza98@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sridevikaza&show_icons=true&theme=radical)
+
 -->
 
 # 👋 Hello! I'm Sridevi
 
 ## 🔭 About Me
-🛠️ Undergraduate Degree in Mechanical Engineering (MIT '21).
-🎓 Master's in Robotic Systems Development (MRSD '24) from Carnegie Mellon.
-👩‍💻 Starting Full-Time Employment at Draper Lab as a Perception and Autonomy Researcher.
-🧠 Passionate about robotics, computer science, and developing innovative solutions.
+- 🛠️ Undergraduate Degree in Mechanical Engineering (MIT '21).
+- 🎓 Master's in Robotic Systems Development (MRSD '24) from Carnegie Mellon.
+- 👩‍💻 Starting Full-Time Employment at Draper Lab as a Perception and Autonomy Researcher.
+- 🧠 Passionate about robotics, computer science, and developing innovative solutions.
 
 ## 🔭 What I've Worked On
 - 🫑 **Autonomous Green Pepper Harvesting Robot**: Developing a robot to automate the harvesting of green peppers.
@@ -42,9 +46,6 @@ Here are some ideas to get you started:
 - 📧 **Email**: [sridevikaza98@example.com](mailto:sridevikaza98@gmail.com)
 - 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sridevi-kaza/)
 - 📝 **Website**: [My Website](https://sridevikaza.com)
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sridevikaza&show_icons=true&theme=radical)
 
 ## 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sridevikaza&layout=compact&theme=radical)
