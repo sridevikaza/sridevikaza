@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sridevikaza&show_icons=true&theme=radical)
+---
+
+> "Exploring the unknown and turning ideas into reality, one robot at a time."
 
 -->
 
@@ -51,8 +54,3 @@ Here are some ideas to get you started:
 
 ## 📫 How to Reach Me
 Feel free to reach out for collaborations, discussions, or any queries! I'm always open to connecting with fellow enthusiasts and professionals.
-
----
-
-> "Exploring the unknown and turning ideas into reality, one robot at a time."
-
