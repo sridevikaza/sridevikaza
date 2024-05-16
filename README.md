@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 - 📝 **Website**: [My Website](https://sridevikaza.com)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sridevikaza&show_icons=true&theme=radical)
 
 ## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sridevikaza&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 Feel free to reach out for collaborations, discussions, or any queries! I'm always open to connecting with fellow enthusiasts and professionals.
