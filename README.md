@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ## 💬 Let's Connect!
 - 📧 **Email**: [sridevikaza98@example.com](mailto:sridevikaza98@gmail.com)
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sridevi-kaza/)
+- 💼 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/sridevi-kaza/)
 - 📝 **Website**: [My Website](https://sridevikaza.com)
 
 ## 📊 Top Languages
